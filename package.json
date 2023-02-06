@@ -1,5 +1,5 @@
 {
-  "name": "modbusReader",
+  "name": "scouting-modbus-reader",
   "description": "Routine to communicate with Modbus-TCP including symbol lookup, etc, for PLCs",
   "version": "0.0.1",
   "author": {
