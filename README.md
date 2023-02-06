@@ -1,4 +1,4 @@
-# modbusReader
+# scouting-modbus-reader
 
 modbusReader is a library that provides communication with PLCs and controllers using MODBUS/TCP or MODBUS RTU over TCP. It supports various tag formats for reading and writing data, including coils, input status, input register, holding register, etc. It supports the default slave ID of 1, but you can specify a different slave ID if necessary. modbusReader can be installed via npm by running npm install modbusReader. To use it, you can require the library and use it to initiate a connection, set a translation callback, add items to be read or written, and write values to those items.
 
