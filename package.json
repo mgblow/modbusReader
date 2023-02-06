@@ -1,0 +1,23 @@
+{
+  "name": "modbusReader",
+  "description": "Routine to communicate with Modbus-TCP including symbol lookup, etc, for PLCs",
+  "version": "0.0.1",
+  "author": {
+    "name": "mgblow",
+    "email": "mgblow@gmail.com"
+  },
+  "keywords": [
+    "Modbus",
+    "Modbus/TCP",
+    "PLC"
+  ],
+  "main": "modbusReader.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mgblow/modbusReader"
+  },
+  "dependencies": {
+    "underscore": "^1.13.1"
+  },
+  "engine": "node 0.8.x"
+}
